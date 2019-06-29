@@ -1,2 +1,3 @@
 # company_wechat
-一个简单的集成企业微信登陆
+这是一个flutter plugin
+支持在flutter项目中调用企业微信登陆(android,ios)
