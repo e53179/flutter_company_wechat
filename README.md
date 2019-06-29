@@ -1,2 +1,2 @@
-# commpany_wechat
-简单集成企业微信登陆
+# company_wechat
+一个简单的集成企业微信登陆
